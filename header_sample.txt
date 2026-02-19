@@ -1,0 +1,7 @@
+Return-Path: <security-alert@paypa1-verification.com>
+Received: from mail.paypa1-verification.com (185.234.219.87)
+Received-SPF: fail
+Authentication-Results: spf=fail dkim=none dmarc=fail
+From: PayPal Security Team <security-alert@paypa1-verification.com>
+Reply-To: support@secure-check-login.ru
+Subject: Urgent: Unusual Login Attempt Detected

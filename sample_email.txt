@@ -1,0 +1,19 @@
+Subject: Urgent: Unusual Login Attempt Detected
+
+From: PayPal Security Team <security-alert@paypa1-verification.com>
+To: user@example.com
+
+Dear Customer,
+
+We detected a suspicious login attempt on your account.
+
+Your account will be suspended within 24 hours unless you verify your identity.
+
+Click the secure link below to restore access:
+
+https://www.paypal.com.security-check-user-verification.ru/login
+
+Failure to act immediately may result in permanent account suspension.
+
+Thank you,
+PayPal Security Team
